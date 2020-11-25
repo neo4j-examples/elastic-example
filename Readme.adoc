@@ -1,4 +1,4 @@
-# Elastic Example
+= Elastic Example
 
 This example spins up empty Elasticsearch and Neo4j database. You can get both systems started, by running the following commands:
 
