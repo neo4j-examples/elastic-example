@@ -1,1 +1,0 @@
-mongorestore -u mongo -p neo4j -d test -c tweets /dump/twitter/tweets.bson --authenticationDatabase admin
